@@ -75,7 +75,6 @@ npm start
 ```
 * Response:
 ```json
-Copy code
 {
   "message": "User registered successfully"
 }
@@ -167,15 +166,15 @@ Copy code
 
 ## Endpoint Template
 
-![RegisterUser](UB-Register.png)
+![RegisterUser](src/images/UB-Register.png)
 
-![LoginUser](UB-Login.png)
+![LoginUser](src/images/UB-Login.png)
 
-![LogoutUser](UB-Logout.png)
+![LogoutUser](src/images/UB-Logout.png)
 
-![CreateTicket](UB-CreateTicket.png)
+![CreateTicket](src/images/UB-CreateTicket.png)
 
-![fetchTickets](getTicket.png)
+![fetchTickets](src/images/getTicket.png)
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
