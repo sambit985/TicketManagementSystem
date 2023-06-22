@@ -1,0 +1,22 @@
+{
+  "name": "unitbit",
+  "version": "1.0.0",
+  "description": "Create Tambula Ticket Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Mongodb"
+  ],
+  "author": "Sambit Kumar Nayak",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.1"
+  }
+}
